@@ -1,1 +1,5 @@
-theme: jekyll-theme-minimal
+theme: minima
+title: "Best Movies"
+header_pages:
+  - about.md
+  
